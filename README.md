@@ -1,4 +1,4 @@
-### "Looking to be a general expertise". 
+### "Looking to be a general expert". 
 
 <!--
 **marhiru/marhiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
